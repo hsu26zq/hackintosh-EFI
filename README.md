@@ -1,17 +1,12 @@
-backup of my own EFI, tested on Tahoe, mostly working.
+Backup of my own EFI, tested on Tahoe.
 
-my spec:
+Specs:
 
-cpu: r5 5600
+CPU: R5-5600
+GPU: PowerColor RX-6600 Hellhound
+RAM: 32Gb
+Storage: Micron 1TB SSD
 
-gpu: powercolor rx 6600 hellhound
-
-ram: 32gb
-
-storage: micron 1tb ssd
-
-networking:
-  realtek 1gb ethernet
-  intel ax210 (airport seems to not working so I use heliport)
-
-note: place your own usbmap.kext and serial number.
+Networking:
+  Realtek 1Gb Ethernet
+  Intel AX210 (tested on heliport)
