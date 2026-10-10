@@ -1,6 +1,5 @@
 Backup of my own EFI, tested on Tahoe.
 
-Specs:
 
 CPU: R5-5600
 
